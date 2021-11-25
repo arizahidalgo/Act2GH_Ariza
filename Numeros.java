@@ -22,5 +22,7 @@ public class ej16 {
         }
 
         System.out.println("Hola mundo xd");
+
+        System.out.println("Holamundo2");
     }
 }
