@@ -20,5 +20,7 @@ public class ej16 {
         } else {
             System.out.println("El numero no es primo");
         }
+            System.out.println("Hola mundo desde main");
+	
     }
 }
